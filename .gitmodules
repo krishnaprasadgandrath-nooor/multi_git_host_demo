@@ -1,0 +1,3 @@
+[submodule "multi_git_uno"]
+	path = multi_git_uno
+	url = ../multi_git_uno
